@@ -155,3 +155,21 @@ The lab also demonstrated how Excel can be used to organize control assessments 
 - Control testing results
 - Documented control finding
 - Evidence screenshots
+
+---
+
+## Evidence Screenshots
+
+The following screenshots show the completed GRC Control Assessment Tracker and the analysis performed during the lab.
+
+### Control Assessment Tracker — Part 1
+![Control Assessment Tracker Part 1](control-assessment-tracker-part-1.png)
+
+### Control Assessment Tracker — Part 2
+![Control Assessment Tracker Part 2](control-assessment-tracker-part-2.png)
+
+### Control Assessment Tracker — Part 3
+![Control Assessment Tracker Part 3](control-assessment-tracker-part-3.png)
+
+### Control Assessment Tracker — Part 4
+![Control Assessment Tracker Part 4](control-assessment-tracker-part-4.png)
