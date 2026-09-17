@@ -16,7 +16,10 @@ My approach throughout these labs is:
 
 | Lab | Topic | Skills Demonstrated | Professional Artifact |
 |---|---|---|---|
-| **Lab 01** | Basic Control Assessment — Screen Lock Control | Control objectives, control testing, evidence review, operating effectiveness | Control Assessment Workpaper |
+| **Lab 01** | [Basic Control Assessment — Screen Lock Control](./lab-01-basic-control-assessment/) | Control objectives, control testing, evidence review, operating effectiveness | Control Assessment Workpaper |
+| **Lab 02** | [GRC Scenario Sorting](./lab-02-grc-scenario-sorting/) | Governance, risk, and compliance classification; scenario analysis; GRC decision-making | GRC Scenario Analysis |
+| **Lab 03** | [Control, Evidence, or Finding?](./lab-03-control-evidence-finding-Excel/) | Control identification, evidence evaluation, control testing, findings, evidence reliability, Excel-based assessment tracking | GRC Control Assessment Tracker |
+| **Lab 04** | [Professional GRC Stakeholder Communication](./lab-04-professional-grc-email-communication/) | Evidence requests, remediation tracking, stakeholder communication, disagreement management, escalation | Professional GRC Communication Portfolio |
 
 *Additional labs will be added as I progress through my GRC training.*
 
