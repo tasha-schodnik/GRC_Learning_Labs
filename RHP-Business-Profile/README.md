@@ -1,366 +1,351 @@
-# 🦝 Raccoon Health & Pharmacy (RHP)
-
-## Fictional Organization Profile
-
-> **Portfolio Disclaimer**
->
-> Raccoon Health & Pharmacy (RHP) is a fictional organization created solely for cybersecurity and Governance, Risk, and Compliance (GRC) training and portfolio projects.
->
-> All organizations, systems, employees, risks, findings, evidence, policies, controls, vendors, and scenarios associated with RHP are simulated. RHP is not affiliated with or intended to represent any real organization.
-
----
-
 ## 🏥 Company Overview
 
-**Raccoon Health & Pharmacy (RHP)** is a fictional mid-sized regional healthcare services organization providing integrated healthcare, pharmacy, benefits, and technology-enabled services.
+**Raccoon Health & Pharmacy (RHP)** is a fictional small independent pharmacy startup providing prescription and pharmacy-support services to patients in its local community.
 
-RHP supports patients, healthcare providers, employers, and health-plan partners through a combination of physical healthcare locations, pharmacy operations, digital services, and administrative healthcare programs.
+RHP operates a retail pharmacy location while also providing digital services that allow patients to manage prescriptions, request refills, receive medication notifications, and communicate with pharmacy staff.
 
-The organization has expanded its services and technology environment over time, including growth through acquisitions and third-party partnerships. This creates a realistic GRC environment involving multiple business units, legacy and modern systems, cloud services, sensitive healthcare information, third-party dependencies, and varying levels of control maturity.
+As a growing healthcare business, RHP relies on cloud-based applications, pharmacy technology, third-party service providers, employee workstations, and connected business systems to support daily operations. Because RHP handles prescription information, Protected Health Information (PHI), electronic Protected Health Information (ePHI), personal information, and payment information, the organization must manage cybersecurity, privacy, regulatory, operational, and third-party risks.
+
+RHP is developing a formal Governance, Risk, and Compliance (GRC) program as the business grows and its technology environment becomes more complex.
 
 ### Organization Profile
 
-| Attribute | RHP Profile |
+| **Attribute** | **RHP Profile** |
 |---|---|
-| **Industry** | Healthcare & Pharmacy Services |
-| **Organization Type** | Private Healthcare Services Organization |
-| **Size** | Mid-sized |
-| **Employees** | Approximately 10,000 |
-| **Operations** | Multi-state U.S. operations |
-| **Workforce** | On-site, hybrid, and remote |
-| **Primary Customers** | Patients, members, healthcare providers, employers, and health-plan partners |
-| **Technology Model** | Hybrid cloud and on-premises environment |
+| **Industry** | Retail Pharmacy & Healthcare Services |
+| **Organization Type** | Private Independent Pharmacy Startup |
+| **Size** | Small Business |
+| **Employees** | Approximately 30 |
+| **Operations** | Single retail pharmacy location with digital pharmacy services |
+| **Workforce** | On-site and limited remote/hybrid administrative staff |
+| **Primary Customers** | Local patients and prescription customers |
+| **Technology Model** | Cloud-first with limited on-site technology |
 
----
+# 🏢 Business Functions
 
-# 🏢 Business Units
+RHP operates with approximately 30 employees across pharmacy operations, patient services, administration, technology, and compliance functions. As a small startup, some employees perform multiple responsibilities, while specialized technology and security services may be supported by third-party providers.
 
-RHP operates several interconnected business units that provide healthcare and administrative services.
+## 💊 Pharmacy Operations
 
-## RHP Care
+Responsible for prescription processing, medication dispensing, patient safety, pharmacy operations, and regulatory pharmacy requirements.
 
-Provides patient-facing healthcare services.
+**Staff:**
+- 1 Owner / Pharmacy Director
+- 4 Staff Pharmacists
+- 16 Pharmacy Technicians
 
-Services include:
+## 👥 Patient & Business Services
 
-- Primary and outpatient care
-- Virtual healthcare services
-- Pharmacy-supported clinical services
-- Patient care coordination
-- Medication management support
+Supports customer service and the administrative functions required to operate the pharmacy.
 
----
+**Staff:**
+- 1 Pharmacy Operations Manager
+- 3 Patient Services / Front-End Staff
+- 2 Billing & Administrative Specialists
+- 1 Office / HR Administrator
 
-## 💊 RHP Pharmacy
+**Responsibilities include:**
+- Patient and customer support
+- Pharmacy scheduling and operational coordination
+- Inventory and purchasing coordination
+- Insurance and billing support
+- Administrative activities
+- Employee records and HR coordination
+- Payroll coordination
 
-Provides pharmacy and medication-related services.
+## 💻 Information Technology
 
-Services include:
+RHP maintains limited internal technology staff and relies on third-party service providers for specialized technology and security services.
 
-- Retail pharmacy
-- Prescription fulfillment
-- Specialty pharmacy services
-- Home-delivery pharmacy
-- Medication support programs
+**Staff:**
+- 1 IT / Systems Administrator
 
-RHP Pharmacy processes significant amounts of prescription, patient, provider, insurance, and payment information.
+**Responsibilities include:**
+- Employee workstations and devices
+- User account administration
+- Pharmacy and business system support
+- Technology vendor coordination
+- System configuration and maintenance
+- Coordination with third-party IT and security providers
 
----
+## 🔐 Compliance, Privacy & GRC
 
-## 📋 RHP Benefits
+RHP maintains a small internal compliance and privacy function responsible for helping the organization manage healthcare regulatory, privacy, security, and risk-management responsibilities.
 
-Provides pharmacy-benefit and medication-coverage administration for employer and health-plan clients.
+**Staff:**
+- 1 Compliance & Privacy Specialist
 
-Services include:
+**Responsibilities include:**
+- HIPAA privacy and security support
+- Policy and procedure governance
+- Risk and compliance activities
+- Security control documentation
+- Evidence collection and organization
+- Third-party compliance oversight
+- Findings and remediation tracking
+- Audit and assessment support
+- Security and privacy awareness activities
 
-- Pharmacy-benefit administration
-- Prescription coverage management
-- Prior authorization processing
-- Appeals processing
-- Medication-access support
-- Member support services
+As RHP grows, the organization is working to formalize its Governance, Risk, and Compliance (GRC) practices and improve the maturity of its cybersecurity and compliance program.
 
----
+# 🔐 Information Security & GRC Model
 
-## 💳 RHP Health Accounts
+RHP does not maintain a large internal cybersecurity department. Security, privacy, compliance, and technology responsibilities are shared between internal staff and third-party service providers.
 
-Provides administration and support for healthcare-related financial and benefit accounts.
+The **IT / Systems Administrator** manages routine technology operations and coordinates with external technology providers.
 
-Services include:
+The **Compliance & Privacy Specialist** supports HIPAA compliance, privacy, security governance, risk management, policy administration, evidence collection, and other GRC activities.
 
-- Healthcare spending account administration
-- Member account services
-- Employer benefit support
-- Claims-related financial processing
+Specialized cybersecurity and IT services may be provided by third-party vendors. Specific responsibilities and service providers are defined as the RHP technology and vendor environment is developed.
 
----
-
-## 💻 RHP Technology
-
-Develops and maintains technology supporting RHP business operations.
-
-Responsibilities include:
-
-- Patient and member portals
-- Internal healthcare applications
-- Cloud infrastructure
-- Identity and Access Management (IAM)
-- Data platforms and analytics
-- Application integrations
-- API and healthcare data exchanges
-- Infrastructure and endpoint management
-
----
-
-## 🏢 RHP Corporate Services
-
-Provides organization-wide business support.
-
-Functions include:
-
-- Human Resources
-- Finance
-- Legal
-- Privacy
-- Compliance
-- Procurement
-- Vendor Management
-- Business Continuity
-- Corporate Governance
-
----
-
-# 🔐 Information Security & GRC
-
-RHP maintains an Information Security program responsible for protecting organizational systems and information.
-
-Security functions include:
-
-- Security operations
-- Identity and access management
-- Vulnerability management
-- Security engineering
-- Incident response
-- Security architecture
-- Third-party security
-- Governance, Risk, and Compliance
-
-## GRC Function
-
-The RHP GRC team supports the organization by performing activities such as:
-
-- Risk assessments
-- Security control assessments
-- Control testing
-- Evidence collection and review
-- Policy and standard governance
-- Compliance assessments
-- Risk and issue tracking
-- Findings management
-- Remediation tracking
-- Third-party risk assessments
-- Audit support
-- GRC reporting
-- Stakeholder communication
-
-### Portfolio Role
+## 🦝 Portfolio Role
 
 For RHP portfolio projects, my simulated role is:
 
 **GRC Analyst**
 
-Projects are designed to simulate work that may be performed by a GRC analyst while supporting more experienced team members and working with technical and business stakeholders.
+In this role, I support RHP as it develops and matures its Governance, Risk, and Compliance program. Portfolio projects simulate GRC activities such as risk assessment, control evaluation, compliance mapping, policy development, evidence review, third-party risk management, findings management, remediation tracking, and security reporting.
 
----
+The simulated GRC Analyst works with RHP business stakeholders, the Compliance & Privacy Specialist, IT personnel, and third-party service providers while performing assessment and documentation activities.
 
 # 🔒 Information Handled by RHP
 
-Because RHP provides healthcare, pharmacy, financial, and administrative services, its systems process multiple categories of sensitive information.
+Because RHP provides pharmacy and healthcare-related services, its systems and employees handle multiple categories of sensitive information.
 
-These include:
-
-### Healthcare Information
+## Healthcare Information
 
 - Protected Health Information (PHI)
 - Electronic Protected Health Information (ePHI)
 - Prescription information
-- Patient records
+- Patient information
 - Medication information
-- Healthcare claims information
+- Insurance information
+- Prescription claim information
+- Prescriber information
 
-### Personal Information
+## Personal Information
 
-- Patient and member identifying information
+- Patient identifying information
 - Employee information
 - Contact information
 - Account information
+- Authentication and account-related information
 
-### Financial Information
+## Financial Information
 
 - Payment information
-- Healthcare spending account information
 - Billing information
+- Insurance payment information
 - Financial transaction records
+- Business financial records
 
-### Business Information
+## Business Information
 
-- Contracts
+- Vendor contracts and agreements
 - Internal policies and procedures
-- Security documentation
-- Risk and audit records
+- Security and compliance documentation
+- Risk and assessment records
+- Employee records
 - Vendor information
 - Proprietary business information
 
----
 
 # 🖥️ Technology Environment
 
-RHP operates a hybrid technology environment consisting of cloud services, internally managed systems, endpoints, applications, and third-party platforms.
+RHP operates a cloud-first technology environment with limited technology maintained at its physical pharmacy location.
 
-The simulated environment may include:
+The environment includes technology required to support prescription processing, pharmacy operations, patient services, employee access, business administration, security, and regulatory compliance.
 
-- Microsoft Windows endpoints and servers
-- Linux servers
-- Cloud-hosted infrastructure and applications
-- SaaS platforms
-- Identity and Access Management systems
-- Electronic healthcare systems
-- Pharmacy management systems
-- Patient/member web portals
-- Mobile applications
-- Databases
-- APIs and healthcare integrations
-- Security monitoring platforms
-- Vulnerability-management systems
+RHP's technology environment may include:
+
+- Pharmacy management and prescription-processing systems
+- Employee workstations
+- Point-of-sale systems
+- Network equipment
+- Cloud-based business applications
+- Email and productivity services
+- Identity and access-management services
+- Patient-facing digital services
+- Electronic prescription integrations
+- Healthcare and pharmacy data exchanges
+- Financial and billing systems
 - HR and workforce-management systems
-- Financial systems
-- Third-party healthcare platforms
+- Security and endpoint-protection services
+- Backup and recovery services
+- Third-party applications and platforms
 
-Specific technologies may be introduced in individual projects when needed.
+Specific systems, applications, technologies, owners, data types, criticality ratings, and security characteristics are documented in the RHP System Inventory as the simulated environment is developed.
 
----
 
 # ☁️ Third-Party Environment
 
-RHP relies on third-party organizations to support healthcare and business operations.
+As a small pharmacy startup, RHP relies on third-party organizations for technology and business capabilities that are not maintained entirely in-house.
 
-Third parties may include:
+Third-party relationships may include:
 
-- Cloud service providers
-- SaaS providers
-- Healthcare technology vendors
-- Pharmacy partners
-- Payment processors
-- Benefits-service providers
-- Medical service providers
-- Data-processing vendors
-- Managed technology providers
-- Business associates
+- Managed IT and security services
+- Cloud and SaaS providers
+- Pharmacy technology providers
+- Prescription and healthcare integration services
+- Payment-processing services
+- Insurance and prescription-claim services
+- Backup and recovery providers
+- HR and payroll services
+- Business software providers
+- Other vendors that process, store, transmit, or access RHP information
 
-Third-party relationships may introduce cybersecurity, privacy, operational, compliance, and business risks that must be evaluated and managed.
+Third-party relationships may introduce cybersecurity, privacy, compliance, operational, and business risks.
 
----
+Specific vendors, services, data access, dependencies, and risk characteristics are documented in the RHP Vendor Inventory as the simulated environment is developed.
+
 
 # ⚖️ Regulatory & Framework Environment
 
-Because RHP operates in healthcare and handles sensitive information, its GRC program may use multiple regulatory requirements, security frameworks, and industry standards.
+Because RHP provides pharmacy services and handles sensitive healthcare information, its GRC program must consider applicable legal, regulatory, contractual, and security requirements.
 
-The simulated RHP environment may reference:
+## Regulatory & Compliance Environment
 
-### Regulatory & Compliance
+RHP's simulated compliance environment may include:
 
 - HIPAA Security Rule
 - HIPAA Privacy Rule
 - HITECH Act
-- Applicable state privacy and cybersecurity requirements
-- Contractual security requirements
+- Applicable state privacy and pharmacy requirements
+- Payment-card security requirements where applicable
+- Contractual security and privacy requirements
+- Internal organizational policies and standards
 
-### Security & Risk Frameworks
+Applicability is evaluated based on RHP's business activities, information, systems, services, and third-party relationships.
 
-- NIST Cybersecurity Framework (CSF)
+## Security & Risk Frameworks
+
+RHP may use established cybersecurity and risk-management frameworks and guidance to help develop, assess, and improve its security and GRC program.
+
+These may include:
+
+- NIST Cybersecurity Framework (CSF) 2.0
 - NIST Risk Management Framework (RMF)
+- NIST SP 800-30
 - NIST SP 800-53
 - NIST SP 800-53A
-- NIST SP 800-30
 - CIS Controls
 - ISO/IEC 27001 and ISO/IEC 27002
 
-Not every framework or regulation applies to every RHP project. Individual projects identify the requirements and guidance relevant to the scenario being assessed.
+Not every framework, standard, or regulation applies equally to every RHP project. Individual projects identify the requirements, controls, and guidance relevant to the activity being performed.
 
----
 
 # 👥 Key GRC Stakeholders
 
-GRC activities at RHP may involve collaboration with:
+GRC activities at RHP involve collaboration among internal employees, business leadership, technology personnel, compliance personnel, and third-party service providers.
 
-| Stakeholder | Example GRC Interaction |
+| **Stakeholder** | **Example GRC Interaction** |
 |---|---|
-| **Business Owners** | Risk ownership and remediation decisions |
-| **Control Owners** | Control operation and evidence collection |
-| **System Owners** | System controls and access reviews |
-| **Information Security** | Technical security controls and risk |
-| **IAM** | Access management and privileged access |
-| **IT Operations** | Infrastructure and configuration controls |
-| **Vulnerability Management** | Vulnerability remediation and validation |
-| **Privacy** | PHI/ePHI and privacy requirements |
-| **Compliance** | Regulatory requirements |
-| **Legal** | Legal and contractual obligations |
-| **Human Resources** | Workforce and termination processes |
-| **Vendor Management** | Third-party relationships |
-| **Internal Audit** | Audit and assurance activities |
-| **Leadership** | Risk visibility and governance |
+| Owner / Pharmacy Director | Business decisions, risk ownership, governance, and risk acceptance |
+| Staff Pharmacists | Pharmacy processes, patient information, operational controls, and evidence |
+| Pharmacy Operations Manager | Operational processes, inventory, staffing, and remediation activities |
+| IT / Systems Administrator | System configuration, access management, technical controls, and evidence |
+| Compliance & Privacy Specialist | HIPAA, privacy, policies, risk, compliance, evidence, and assessments |
+| Office / HR Administrator | Workforce records, onboarding, termination, and employee processes |
+| Billing & Administrative Staff | Billing, insurance, financial processes, and supporting evidence |
+| System / Control Owners | Control operation, evidence collection, and remediation |
+| Third-Party Service Providers | Outsourced technology, security, and business services |
+| Vendors / Business Associates | Contractual, privacy, security, and third-party risk requirements |
 
----
 
 # 📊 GRC Project Environment
 
 RHP serves as the continuous fictional organization used throughout my GRC portfolio.
 
-Rather than treating each lab as an unrelated scenario, future projects can build upon the same organization, business processes, systems, stakeholders, risks, and controls.
+Rather than treating each project as an unrelated scenario, RHP projects build upon the same organization, technology environment, systems, stakeholders, vendors, risks, policies, controls, and requirements.
 
-This allows the portfolio to demonstrate how different GRC activities connect throughout the risk and control lifecycle:
+This allows the portfolio to demonstrate how GRC activities connect throughout the risk and control lifecycle:
 
 **Business Objective → Risk → Requirement → Policy → Control → Evidence → Testing → Finding → Remediation → Validation**
 
----
+As the RHP environment develops, information created during one project may become input for later projects. For example, risks identified through risk assessment may influence policy requirements, security controls, compliance assessments, testing activities, remediation efforts, and reporting.
 
-# 🧪 Planned RHP Portfolio Projects
 
-RHP may be used for projects involving:
+# 🧪 RHP Portfolio Projects
 
-- Enterprise risk registers
-- Security risk assessments
-- Control assessments
-- Evidence review
-- Policy development and review
-- Access-control assessments
-- Vulnerability and patch-management assessments
-- HIPAA security assessments
-- NIST CSF gap assessments
-- Third-party risk assessments
-- Findings and remediation tracking
-- Audit preparation
-- GRC dashboards and reporting
-- Professional stakeholder communication
+RHP provides the simulated environment for hands-on GRC portfolio projects demonstrating different parts of the governance, risk, compliance, control, and assurance lifecycle.
 
-Individual projects will be added as the RHP environment develops.
+Planned and developing RHP projects may include:
 
----
+- Enterprise Risk Assessment & Risk Register
+- Security Risk Assessments
+- Information Security Policy Development & Review
+- Compliance & Security Control Mapping
+- NIST CSF 2.0 Gap Assessment
+- HIPAA Security Assessment
+- Security Control Assessment & Testing
+- Evidence Review & Validation
+- Access-Control Assessment
+- Vulnerability & Patch-Management Assessment
+- Third-Party Risk Assessment
+- Findings & Remediation Management
+- Audit Preparation & Evidence Management
+- GRC Metrics, Dashboards & Reporting
+- Professional Stakeholder Communication
+- Cloud GRC / Security Assessment
+- Integrated RHP GRC Capstone
 
-## 📁 Related Portfolio Work
+Additional projects may be introduced when they demonstrate a distinct GRC competency and can be meaningfully integrated into the RHP environment.
 
-RHP scenarios are used throughout my hands-on GRC learning portfolio:
 
-**[GRC Learning Labs](../)**
+# 🗂️ RHP Environment Documentation
 
-Additional RHP projects and professional artifacts will be linked here as they are completed.
+Supporting documentation is maintained to provide consistent business and technical context across RHP portfolio projects.
 
----
+The RHP environment may include:
 
-## ⚠️ Disclaimer
+### Environment
+
+- System Inventory
+- Enterprise Architecture
+- Data-Flow Diagrams
+
+### Governance
+
+- Security Objectives
+- Stakeholder Directory
+- Policy Inventory
+
+### Compliance
+
+- Requirements Register
+- Compliance and Control Mapping
+
+### Vendors
+
+- Vendor Inventory
+- Third-Party Risk Documentation
+
+These artifacts are developed progressively as the RHP environment and portfolio projects mature.
+
+
+# 📁 Related Portfolio Work
+
+RHP is used throughout my hands-on Governance, Risk, and Compliance portfolio.
+
+[**GRC Learning Labs**](https://github.com/tasha-schodnik/GRC_Learning_Labs)
+
+Major RHP projects are maintained as individual portfolio projects when the scope and deliverables warrant separate documentation.
+
+Completed and developing RHP projects will be linked here as they are added to the portfolio.
+
+
+# ⚠️ Disclaimer
 
 This environment is entirely fictional.
 
 Raccoon Health & Pharmacy, its employees, systems, vendors, evidence, risks, policies, controls, assessment results, and business operations are simulated for educational and portfolio purposes.
 
 No confidential, proprietary, patient, employer, or real-world organizational information is used in RHP projects.
+
+> **Portfolio Disclaimer**
+>
+> Raccoon Health & Pharmacy (RHP) is a fictional organization created solely for cybersecurity and Governance, Risk, and Compliance (GRC) training and portfolio projects.
+>
+> All organizations, systems, employees, risks, findings, evidence, policies, controls, vendors, and scenarios associated with RHP are simulated. RHP is not affiliated with or intended to represent any real organization.
+>
+> All RHP GRC portfolio documents and work products in this repository were created by me as part of my hands-on GRC training and portfolio development. Any external frameworks, regulations, standards, or guidance referenced within the projects are identified where applicable.
