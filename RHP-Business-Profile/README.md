@@ -1,8 +1,8 @@
 ## 🏥 Company Overview
 
-**Raccoon Health & Pharmacy (RHP)** is a fictional small independent pharmacy startup providing prescription and pharmacy-support services to patients in its local community.
+**Raccoon Health & Pharmacy (RHP)** is a fictional small independent retail, compounding, and specialty pharmacy startup providing prescription medications, over-the-counter products, compounded medications, specialty pharmacy services, and pharmacy-support services to patients in its local community.
 
-RHP operates a retail pharmacy location while also providing digital services that allow patients to manage prescriptions, request refills, receive medication notifications, and communicate with pharmacy staff.
+RHP operates a retail pharmacy location that provides traditional prescription dispensing, compounding, and specialty pharmacy services. RHP also provides digital services that allow patients to manage prescriptions, request refills, receive medication notifications, and communicate with pharmacy staff.
 
 As a growing healthcare business, RHP relies on cloud-based applications, pharmacy technology, third-party service providers, employee workstations, and connected business systems to support daily operations. Because RHP handles prescription information, Protected Health Information (PHI), electronic Protected Health Information (ePHI), personal information, and payment information, the organization must manage cybersecurity, privacy, regulatory, operational, and third-party risks.
 
@@ -12,13 +12,13 @@ RHP is developing a formal Governance, Risk, and Compliance (GRC) program as the
 
 | **Attribute** | **RHP Profile** |
 |---|---|
-| **Industry** | Retail Pharmacy & Healthcare Services |
+| **Industry** | Retail, Compounding & Specialty Pharmacy / Healthcare Services |
 | **Organization Type** | Private Independent Pharmacy Startup |
 | **Size** | Small Business |
 | **Employees** | Approximately 30 |
-| **Operations** | Single retail pharmacy location with digital pharmacy services |
+| **Operations** | Single pharmacy location providing retail, compounding, specialty, and digital pharmacy services |
 | **Workforce** | On-site and limited remote/hybrid administrative staff |
-| **Primary Customers** | Local patients and prescription customers |
+| **Primary Customers** | Local patients, prescription customers, and specialty pharmacy patients |
 | **Technology Model** | Cloud-first with limited on-site technology |
 
 # 🏢 Business Functions
