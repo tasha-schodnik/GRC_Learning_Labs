@@ -333,19 +333,16 @@ Major RHP projects are maintained as individual portfolio projects when the scop
 
 Completed and developing RHP projects will be linked here as they are added to the portfolio.
 
-
-# ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This environment is entirely fictional.
 
-Raccoon Health & Pharmacy, its employees, systems, vendors, evidence, risks, policies, controls, assessment results, and business operations are simulated for educational and portfolio purposes.
+Raccoon Health & Pharmacy (RHP) is a fictional organization created for cybersecurity and **Governance, Risk, and Compliance (GRC)** home labs, hands-on training, and portfolio projects.
 
-No confidential, proprietary, patient, employer, or real-world organizational information is used in RHP projects.
+The organization, employees, systems, vendors, evidence, risks, policies, controls, assessment scenarios, and business operations are simulated. RHP is not affiliated with or intended to represent any real organization.
 
-> **Portfolio Disclaimer**
->
-> Raccoon Health & Pharmacy (RHP) is a fictional organization created solely for cybersecurity and Governance, Risk, and Compliance (GRC) training and portfolio projects.
->
-> All organizations, systems, employees, risks, findings, evidence, policies, controls, vendors, and scenarios associated with RHP are simulated. RHP is not affiliated with or intended to represent any real organization.
->
-> All RHP GRC portfolio documents and work products in this repository were created by me as part of my hands-on GRC training and portfolio development. Any external frameworks, regulations, standards, or guidance referenced within the projects are identified where applicable.
+AI tools were used to assist with the development of portions of the fictional RHP environment, including simulated background information and supporting documentation used as inputs for home labs and GRC projects.
+
+The **analysis, assessments, risk decisions, control evaluations, findings, policy work, and other hands-on GRC activities** identified as my project work are completed by me unless otherwise stated.
+
+External frameworks, regulations, standards, and guidance are identified where applicable. No confidential, proprietary, patient, employee, or real-world organizational information is used in RHP projects.
