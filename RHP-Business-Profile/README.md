@@ -203,19 +203,23 @@ Specific vendors, services, data access, dependencies, and risk characteristics 
 
 Because RHP provides pharmacy services and handles sensitive healthcare information, its GRC program must consider applicable legal, regulatory, contractual, and security requirements.
 
-## Regulatory & Compliance Environment
+### Regulatory & Compliance Environment
 
 RHP's simulated compliance environment may include:
 
 - HIPAA Security Rule
 - HIPAA Privacy Rule
 - HITECH Act
-- Applicable state privacy and pharmacy requirements
-- Payment-card security requirements where applicable
+- USP <797> — Pharmaceutical Compounding: Sterile Preparations
+- USP <800> — Hazardous Drugs — Handling in Healthcare Settings
+- PCI DSS — where payment-card processing is in scope
+- Applicable state pharmacy requirements
+- Applicable state privacy and breach-notification requirements
 - Contractual security and privacy requirements
 - Internal organizational policies and standards
+- 21 CFR Part 11 — applicability to specific electronic records remains to be determined
 
-Applicability is evaluated based on RHP's business activities, information, systems, services, and third-party relationships.
+Applicability is evaluated based on RHP's business activities, information, systems, services, records, and third-party relationships.
 
 ## Security & Risk Frameworks
 
