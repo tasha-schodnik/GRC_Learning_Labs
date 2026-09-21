@@ -154,49 +154,52 @@ Because RHP provides pharmacy and healthcare-related services, its systems and e
 
 RHP operates a cloud-first technology environment with limited technology maintained at its physical pharmacy location.
 
-The environment includes technology required to support prescription processing, pharmacy operations, patient services, employee access, business administration, security, and regulatory compliance.
+The environment includes technology required to support prescription processing, pharmacy operations, compounding, patient services, employee access, business administration, security, and regulatory compliance.
 
-RHP's technology environment may include:
+RHP's documented technology environment includes:
 
-- Pharmacy management and prescription-processing systems
-- Employee workstations
-- Point-of-sale systems
-- Network equipment
-- Cloud-based business applications
-- Email and productivity services
-- Identity and access-management services
-- Patient-facing digital services
-- Electronic prescription integrations
-- Healthcare and pharmacy data exchanges
-- Financial and billing systems
-- HR and workforce-management systems
-- Security and endpoint-protection services
-- Backup and recovery services
-- Third-party applications and platforms
+- PioneerRx Pharmacy Management Software
+- ScriptPro pharmacy automation
+- Rees Scientific environmental monitoring
+- Microsoft 365
+- Microsoft Entra ID
+- Pharmacy workstations
+- Fortinet FortiGate firewall
+- Endpoint security services
+- RHP network infrastructure
+- Physical security systems
+- Point-of-sale and payment processing
+- HR and payroll services
+- Cloud backup services
+- Patient-facing digital pharmacy services
 
-Specific systems, applications, technologies, owners, data types, criticality ratings, and security characteristics are documented in the RHP System Inventory as the simulated environment is developed.
+Detailed system information, including business purpose, ownership, hosting model, data types, criticality, authentication, third-party dependencies, security controls, and recovery information, is maintained in the **RHP System Inventory**.
 
 
 # ☁️ Third-Party Environment
 
-As a small pharmacy startup, RHP relies on third-party organizations for technology and business capabilities that are not maintained entirely in-house.
+As a small independent pharmacy, RHP relies on third-party organizations for technology, pharmacy operations, supplies, security, and business capabilities that are not maintained entirely in-house.
 
-Third-party relationships may include:
+RHP's vendor environment includes relationships supporting:
 
-- Managed IT and security services
-- Cloud and SaaS providers
-- Pharmacy technology providers
-- Prescription and healthcare integration services
-- Payment-processing services
-- Insurance and prescription-claim services
-- Backup and recovery providers
-- HR and payroll services
-- Business software providers
-- Other vendors that process, store, transmit, or access RHP information
+- Pharmaceutical and medical-supply procurement
+- Pharmacy-specific and general business supplies
+- Pharmaceutical waste services
+- Pharmacy management technology
+- Pharmacy automation
+- Environmental and cleanroom monitoring
+- Cloud productivity and identity services
+- Network and endpoint security
+- Physical security
+- Payment processing
+- HR and payroll
+- Backup and recovery
 
 Third-party relationships may introduce cybersecurity, privacy, compliance, operational, and business risks.
 
-Specific vendors, services, data access, dependencies, and risk characteristics are documented in the RHP Vendor Inventory as the simulated environment is developed.
+Specific vendors, services, business dependencies, related systems, data-access context, and assessment status are maintained in the **RHP Vendor Inventory**.
+
+Third-party cybersecurity risk conclusions are not established as part of the background environment. Vendor risk, control effectiveness, evidence, findings, and treatment decisions are evaluated during RHP third-party risk-management activities.
 
 
 # ⚖️ Regulatory & Framework Environment
@@ -298,33 +301,31 @@ Additional projects may be introduced when they demonstrate a distinct GRC compe
 
 # 🗂️ RHP Environment Documentation
 
-Supporting documentation is maintained to provide consistent business and technical context across RHP portfolio projects.
-
-The RHP environment may include:
+Supporting documentation provides consistent business, technical, governance, compliance, and third-party context across RHP portfolio projects.
 
 ### Environment
 
-- System Inventory
+- RHP System Inventory
 - Enterprise Architecture
-- Data-Flow Diagrams
+- Data-Flow Diagram
 
 ### Governance
 
 - Security Objectives
 - Stakeholder Directory
-- Policy Inventory
+- RHP Policy Inventory
 
 ### Compliance
 
-- Requirements Register
+- RHP Requirements Register
 - Compliance and Control Mapping
 
 ### Vendors
 
-- Vendor Inventory
+- RHP Vendor Inventory
 - Third-Party Risk Documentation
 
-These artifacts are developed progressively as the RHP environment and portfolio projects mature.
+Background documentation establishes the simulated RHP environment used as input for hands-on projects. Assessment conclusions, risk decisions, control evaluations, findings, remediation decisions, and other analyst work are developed through the individual GRC projects.
 
 
 # 📁 Related Portfolio Work
